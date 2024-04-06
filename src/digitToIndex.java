@@ -5,7 +5,7 @@ import java.util.Arrays;
 * i/p -- My0 name1 is2 Gaurav3
 * o/p -- My name is Gaurav
 * */
-public class extractDigit {
+public class digitToIndex {
     public static void main(String[] args) {
         String inputString = "Gaurav3 My0 name1 is2";
         String[] stringArray = inputString.split(" ");
