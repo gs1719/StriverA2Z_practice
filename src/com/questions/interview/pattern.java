@@ -1,3 +1,5 @@
+package com.questions.interview;
+
 import java.util.Scanner;
 
 public class pattern {
